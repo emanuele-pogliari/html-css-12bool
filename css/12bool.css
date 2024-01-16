@@ -80,6 +80,13 @@
     align-items: center;
 }
 
+.align-end {
+    align-self: flex-end;
+}
+
+.align-start {
+    align-self: flex-start;
+}
 
 /* columns style */
 
@@ -204,4 +211,10 @@
 
 .offset-12 {
     margin-left: calc(100% / 12 * 12);
+}
+
+
+
+.col-big {
+    height: 100px;
 }
