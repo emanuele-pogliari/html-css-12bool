@@ -88,6 +88,14 @@
     align-self: flex-start;
 }
 
+.space-around {
+    justify-content: space-around;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
 /* columns style */
 
 .col-1 {
